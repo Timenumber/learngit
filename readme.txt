@@ -5,3 +5,5 @@ Git tracks changes of files.
 I'm learning git!
 Wow it is fantastic!
 I input some changes.
+I type some words.
+
